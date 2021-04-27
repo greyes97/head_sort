@@ -10,7 +10,7 @@
     </parent>
     <groupId>gt.edu.umg.ingenieria.sistemas.ingenieria_software.parcial2</groupId>
     <artifactId>head_sort</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>v1</version>
     <name>head_sort</name>
     <description>La clasificación de montón es una técnica de clasificación basada en comparación basada en la
         estructura de datos de montón binario.
